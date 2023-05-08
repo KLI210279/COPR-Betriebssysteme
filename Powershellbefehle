@@ -1,0 +1,2 @@
+Powershellbefehle:
+  - New-Item -Path 'C:\temp\New Folder' -ItemType Directory     // C ist das Laufwerk wo der ordner hingespeichert wird
